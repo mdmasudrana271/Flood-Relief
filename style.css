@@ -14,6 +14,9 @@ body{
     text-align: center;
     padding: 40px 150px;
 }
+.banner-btn{
+    margin-bottom: 20px;
+}
 .top-banner-heading{
     color: #fff;
     font-size: 60px;
