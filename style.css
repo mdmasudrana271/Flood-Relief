@@ -12,12 +12,13 @@ body{
 }
 .top-banner{
     text-align: center;
-    padding: 50px 150px;
+    padding: 55px 150px;
 }
 .top-banner-heading{
     color: #fff;
     font-size: 60px;
     padding-top: 50px;
+    
 }
 .top-banner-paragraph{
     font-size: 20px;
@@ -26,13 +27,20 @@ body{
 }
 .donate-button{
     background-color: tomato;
-    padding: 18px 38px;
+    padding: 25px 38px;
     border: 1px solid tomato;
     color: #fff;
     font-size: 20px;
     font-weight: 700;
     border-radius: 5px;
-    margin-top: 30px;
+    margin-top: 60px;
+    text-decoration: none;
+    
+    
+}
+.donate-anchor{
+    text-decoration: none;
+    color: #fff;
 }
 
 .donation-section{
