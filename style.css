@@ -75,6 +75,27 @@ body{
     font-weight: 700;
 }
 
+.donation-bottom{
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+    font-size: 12px;
+}
+.donation-button{
+    background-color: tomato;
+    padding: 18px 33px;
+    border: 1px solid tomato;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 44%;
+}
+
 
 /*footer*/
 .footer{
