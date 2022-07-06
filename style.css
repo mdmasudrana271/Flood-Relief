@@ -24,7 +24,7 @@ body{
     color: #fff;
     justify-content: center;
 }
-.donate-btn{
+.donate-button{
     background-color: tomato;
     padding: 18px 38px;
     border: 1px solid tomato;
@@ -149,22 +149,55 @@ body{
 #card-color-3{
     background-color: rgb(252, 250, 220);
 }
+.extra-banner{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: space-evenly;
+ }
+ .banner-describtion{
+    width: 40%;
+    margin-top: 60px;
+    
+ }
+ 
+ .banner-img{
+    width: 90%;
+    height: 50vh;
+    border-radius: 10px;
+ }
+ .banner-heading{
+    font-size: 50px;
+ }
+ .banner-paragraph{
+    font-size: 25px;
+ }
 
+ .contribution-btn{
+    background-color: tomato;
+    padding: 18px 33px;
+    border: 1px solid tomato;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 30px;
+    
+ }
 
 /*footer*/
 .footer{
     font-family: 'Gulzar', serif;
-
     background-color: black;
-    height: 40vh;
+    height: 25vh;
     margin-top: 100px;
 }
 .footer-text{
-    color: tomato;
+    color: rgb(252, 113, 88);
     text-align: center;
     font-style: italic;
     font-weight: 700;
-    padding-top: 90px;
+    padding-top: 50px;
 }
 .footer-small{
     color: #fff;
